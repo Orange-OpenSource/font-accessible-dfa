@@ -7,5 +7,4 @@ There is a need to improve the legibility of written information. This is partic
 Denis CHENE, denis.chene@orange.com
 
 ## License
-SIL OPEN FONT LICENSE (OFL-1.1)
-http://opensource.org/licenses/OFL-1.1
+SIL OPEN FONT LICENSE (OFL-1.1): http://opensource.org/licenses/OFL-1.1
