@@ -4,6 +4,8 @@
 There is a need to improve the legibility of written information. This is particularly so for low readers but also for frequent use, and finally for everybody that want a legible interface.  
 It may be for persons with visual impairment, (blind users, low vision user, cataract), for low literate user, for learning reader, hard of hearing user using efficient subtitling, and all user facing reading difficulties (as dyslexia), or due to contextual constraints (as outdoor use of a mobile phone, or car driving interface).
 
+![visual example of the AccessibleDfA font](https://github.com/Orange-OpenSource/font-accessible-dfa/blob/master/example.png)
+
 ## Design process
 Accessible-DfA font has been designed to provide maximum legibility for everybody. It answers to following constraints:
  - Legibility: in order to be legible, a text need to be high contrasted, with low fantasy, large shapes, sufficient spacing between characters.
