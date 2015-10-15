@@ -29,4 +29,6 @@ Open “Places” (nautilus), then type in file:///, then drag the “Accessible
 Denis CHENE, denis.chene@orange.com
 
 # License
+Copyright (C) 2015 Orange
+
 SIL OPEN FONT LICENSE (OFL-1.1): http://opensource.org/licenses/OFL-1.1
