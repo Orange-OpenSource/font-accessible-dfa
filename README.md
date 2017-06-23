@@ -21,14 +21,14 @@ Accessible-DfA font is an Opentype font usable on any Opertating System. It is a
 Accessible-DfA font is free to download, subject to the licence agreement.
 
 To download and install the free Accessible-DfA font for PC:
-Hold your mouse cursor the following link, then click the right mouse button, then “save target as” or “save file as” to your desktop. Go there, and right click again on the saved file and choose “install”. Now the font is visible from any editors (word, writer, notepad…).
+Click on the link "AccessibleDfA.ttf" or "AccessibleDfA.otf" at the top of this page, download the file on your desktop. Go there, and right click again on the saved file, a contextual menu is opened, then choose “install”. Now the font is visible from any editors (word, writer, notepad…).
 
 To download and install the free Accessible-DfA font for Linux (GNOME):
 Open “Places” (nautilus), then type in file:///, then drag the “AccessibleDfA.otf” font file.
 
 
 # Author
-Denis CHENE, denis.chene@orange.com
+Denis CHÊNE, denis.chene@orange.com
 
 # License
 Copyright (C) 2015 Orange
