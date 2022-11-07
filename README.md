@@ -24,7 +24,10 @@ To download and install the free Accessible-DfA font for PC:
 Click on the link "AccessibleDfA.ttf" or "AccessibleDfA.otf" at the top of this page, download the file on your desktop. Go there, and right click again on the saved file, a contextual menu is opened, then choose “install”. Now the font is visible from any editors (word, writer, notepad…).
 
 To download and install the free Accessible-DfA font for Linux (GNOME):
-Open “Places” (nautilus), then type in file:///, then drag the “AccessibleDfA.otf” font file.
+In Nautilus, display all hidden files and folders
+find a folder named .fonts — if it does not exist, create it
+drag the “AccessibleDfA.otf” font file into the folder
+if needed, restart your word processor to see the Accessible DfA font in your font list
 
 
 # Author
